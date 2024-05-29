@@ -1,0 +1,14 @@
+B:\WEB DEVELOPMENT\C#\NumberGuesser\bin\Debug\net8.0\NumberGuesser.exe
+B:\WEB DEVELOPMENT\C#\NumberGuesser\bin\Debug\net8.0\NumberGuesser.deps.json
+B:\WEB DEVELOPMENT\C#\NumberGuesser\bin\Debug\net8.0\NumberGuesser.runtimeconfig.json
+B:\WEB DEVELOPMENT\C#\NumberGuesser\bin\Debug\net8.0\NumberGuesser.dll
+B:\WEB DEVELOPMENT\C#\NumberGuesser\bin\Debug\net8.0\NumberGuesser.pdb
+B:\WEB DEVELOPMENT\C#\NumberGuesser\obj\Debug\net8.0\NumberGuesser.GeneratedMSBuildEditorConfig.editorconfig
+B:\WEB DEVELOPMENT\C#\NumberGuesser\obj\Debug\net8.0\NumberGuesser.AssemblyInfoInputs.cache
+B:\WEB DEVELOPMENT\C#\NumberGuesser\obj\Debug\net8.0\NumberGuesser.AssemblyInfo.cs
+B:\WEB DEVELOPMENT\C#\NumberGuesser\obj\Debug\net8.0\NumberGuesser.csproj.CoreCompileInputs.cache
+B:\WEB DEVELOPMENT\C#\NumberGuesser\obj\Debug\net8.0\NumberGuesser.dll
+B:\WEB DEVELOPMENT\C#\NumberGuesser\obj\Debug\net8.0\refint\NumberGuesser.dll
+B:\WEB DEVELOPMENT\C#\NumberGuesser\obj\Debug\net8.0\NumberGuesser.pdb
+B:\WEB DEVELOPMENT\C#\NumberGuesser\obj\Debug\net8.0\NumberGuesser.genruntimeconfig.cache
+B:\WEB DEVELOPMENT\C#\NumberGuesser\obj\Debug\net8.0\ref\NumberGuesser.dll
